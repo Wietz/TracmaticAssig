@@ -1,0 +1,9 @@
+c:\users\maraisw\documents\visual studio 2013\Projects\Sales_Taxes\Sales_Taxes\bin\Debug\Sales_Taxes.exe.config
+c:\users\maraisw\documents\visual studio 2013\Projects\Sales_Taxes\Sales_Taxes\bin\Debug\Sales_Taxes.exe
+c:\users\maraisw\documents\visual studio 2013\Projects\Sales_Taxes\Sales_Taxes\bin\Debug\Sales_Taxes.pdb
+c:\users\maraisw\documents\visual studio 2013\Projects\Sales_Taxes\Sales_Taxes\obj\Debug\Sales_Taxes.exe
+c:\users\maraisw\documents\visual studio 2013\Projects\Sales_Taxes\Sales_Taxes\obj\Debug\Sales_Taxes.pdb
+c:\users\maraisw\documents\visual studio 2013\Projects\Sales_Taxes\Sales_Taxes\obj\Debug\Sales_Taxes.csprojResolveAssemblyReference.cache
+J:\Sales_Taxes\Sales_Taxes\bin\Debug\Sales_Taxes.exe.config
+J:\Sales_Taxes\Sales_Taxes\obj\Debug\Sales_Taxes.exe
+J:\Sales_Taxes\Sales_Taxes\obj\Debug\Sales_Taxes.pdb

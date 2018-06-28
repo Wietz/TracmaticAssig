@@ -1,0 +1,9 @@
+c:\users\maraisw\documents\visual studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\obj\Debug\Sales_Taxes_Test.csprojResolveAssemblyReference.cache
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\bin\Debug\Sales_Taxes_Test.dll
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\bin\Debug\Sales_Taxes_Test.pdb
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\bin\Debug\Sales_Taxes.exe
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\bin\Debug\Sales_Taxes.pdb
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\obj\Debug\Sales_Taxes_Test.dll
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\obj\Debug\Sales_Taxes_Test.pdb
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\maraisw\Documents\Visual Studio 2013\Projects\Sales_Taxes\Sales_Taxes_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
